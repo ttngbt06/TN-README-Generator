@@ -1,19 +1,32 @@
-# README Gernerator
+# Challenge Module 9
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
-- This is an application that help developers to create a professional README for a new project quickly
-- When you prompt for information about your application respository, a high - quality, professionial README.md with the title of your project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions is generated.
-- You just need to answer these question after run 'npm start' in command line,
-    - Project Title?
-    - Project Description?
-    - Installation Instructions?
-    - Usage Information?
-    - Contribution Guidelines?
-    - Test Instructions?
-    - Choose a license for your application
-    - Github Username?
-    - Email Address?
+This is challenge in Module 9 of Bootcamp
 
-## Links
-Check out this **[Video]()** for more understanding about this Readme Generator.
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
+## Installation
+run npm start in command line
+
+## Usage
+Auto generate README file 
+
+## License
+This project is licensed under the MIT License. (https://opensource.org/licenses/MIT)
+
+## Contributing
+n/s
+
+## Tests
+no
+
+## Questions
+For any questions, please contact me via [GitHub](https://github.com/ttngbt06) or email at [ttngbt06@gmail.com](mailto:ttngbt06@gmail.com).
