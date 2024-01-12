@@ -15,5 +15,5 @@
     - Email Address?
 
 ## Links
-Check out this **[Video]()** for more understanding about this Readme Generator.
+Check out this **[Video](https://watch.screencastify.com/v/D433r8SPRg3a1kRG5Hy0)** for more understanding about this Readme Generator.
 
